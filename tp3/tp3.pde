@@ -1,3 +1,4 @@
+// video: https://youtu.be/8OkP0WDClmE
 int lienzo=400;
 int cantidad=14;
 PImage original;
